@@ -1,10 +1,10 @@
 # NAME: Binance
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# NOTE: Forked to Allenhua/ios_rule_script; supplemented with 7 Binance domains not in the original 12
+# NOTE: Forked to Allenhua/ios_rule_script; original 12 plus 7 Binance domains plus 7 Binance ecosystem domains (Trust Wallet / BNB Chain / CoinMarketCap)
 # UPDATED: 2026-10-25
-# DOMAIN-SUFFIX: 19
-# TOTAL: 19
+# DOMAIN-SUFFIX: 26
+# TOTAL: 26
 DOMAIN-SUFFIX,appsflayer.com
 DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,binance.cloud
@@ -18,9 +18,16 @@ DOMAIN-SUFFIX,binance.vision
 DOMAIN-SUFFIX,binancecnt.com
 DOMAIN-SUFFIX,binancefuture.com
 DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnbchain.org
 DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,opbnbchain.org
+DOMAIN-SUFFIX,opbnbscan.com
+DOMAIN-SUFFIX,pancakeswap.finance
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,trbinance.com
+DOMAIN-SUFFIX,trustwallet.com
