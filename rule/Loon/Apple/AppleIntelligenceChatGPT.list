@@ -1,0 +1,14 @@
+# NAME: AppleIntelligenceChatGPT
+# AUTHOR: Allenhua
+# REPO: https://github.com/Allenhua/ios_rule_script
+# UPDATED: 2026-10-30 10:30:00
+# NOTE: Siri/Apple Intelligence ChatGPT 插件地区检测 + Apple Relay；只匹配 gspe1-ssl，不要整段 ls.apple.com
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 1
+# TOTAL: 6
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN-KEYWORD,apple-relay
